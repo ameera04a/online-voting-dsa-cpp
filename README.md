@@ -61,6 +61,9 @@ Ali Khan,Liberty Party,2
   All data (candidates and citizens) is loaded at startup and written back after updates.
 
 ---
+## Live Link
+[![Run on Replit](https://replit.com/badge/github/ameera04a/online-voting-dsa-cpp)](https://replit.com/new/github/ameera04a/online-voting-dsa-cpp)
+
 
 
 
